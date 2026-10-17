@@ -99,7 +99,7 @@ What I learned
 
 👨‍💻 Author
 
-Kunal Saxena
+Rohit Kumar
 
 Python Developer | AI & Data Enthusiast
 
